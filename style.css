@@ -123,4 +123,8 @@ ul {
     display: block;
     text-align: center;
   }
+
+  .navbar a {
+    font-size: 16px; /* Adjust the font size as needed */
+  }
 }
